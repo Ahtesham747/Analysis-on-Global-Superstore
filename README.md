@@ -1,5 +1,5 @@
 # Analysis-on-Global-Superstore
-## Data Source : UCI Repository : - Global Superstore-2016 dataset - Excel File
+### Data Source : UCI Repository : - Global Superstore-2016 dataset - Excel File
 ## Problem Statement
 Our case study is based on global superstore business for the financial year from 2012 to 2016 which is facing challenges in dynamically changing market.
 ## Objective
